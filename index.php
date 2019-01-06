@@ -11,3 +11,14 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
 <!--End of Tawk.to Script-->
+
+
+<script type="text/javascript"> 
+    var adfly_id = 20257217; 
+    var adfly_advert = 'int'; 
+    var frequency_cap = 5; 
+    var frequency_delay = 5; 
+    var init_delay = 3; 
+    var popunder = true; 
+</script> 
+<script src="https://cdn.adf.ly/js/entry.js"></script> 
